@@ -10,9 +10,20 @@
 
 
 
-### Tools - 
+### You can also find me on-
 
-<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/prajakta-palkar-b11702165/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) HackerRank](https://www.hackerrank.com/palkarprajakta22/)
+
+
+### Contact Information - 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - palkarprajakta22@gmail.com
+
+
+
+
+
 
 
 
