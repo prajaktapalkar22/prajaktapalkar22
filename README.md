@@ -5,7 +5,7 @@
 - Python
 - SQL Server
 - SSIS
-- Machine Learnig
+- Machine Learning
 - Deep Learning
 
 
@@ -19,6 +19,17 @@
 
 ### Contact Information - 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - palkarprajakta22@gmail.com
+
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajaktapalkar22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${prajaktapalkar22}.${51855545})
+
+
 
 
 
